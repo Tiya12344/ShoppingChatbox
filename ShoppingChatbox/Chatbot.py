@@ -1,0 +1,11 @@
+print ("hello and welcome to our store")
+name = input("What is your name? ")
+print (f"Hello {name}")
+print ("choose the department you wish to shop in")
+print ("1. Grocery")
+print ("2. Clothes")
+print ("3. Sweets")
+print ("4. Utensils")
+print ("5. DIY")
+
+choice = int(input())
