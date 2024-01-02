@@ -9,3 +9,5 @@ print ("4. Utensils")
 print ("5. DIY")
 
 choice = int(input())
+print ("Thank you ")
+print ("You will be Redirected to your desired department  ")
